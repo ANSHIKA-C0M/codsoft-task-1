@@ -1,4 +1,4 @@
-# codsoft
+# codsoft task 1
 from tkinter import *
 
 
